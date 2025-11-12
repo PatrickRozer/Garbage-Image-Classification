@@ -1,0 +1,5 @@
+timestamp,filename,predicted_class,confidence
+2025-11-12 18:39:17,cardboard_2.jpg,cardboard,0.6940455436706543
+2025-11-12 18:39:30,cardboard_5.jpg,cardboard,0.977297306060791
+2025-11-12 18:39:48,paper_468.jpg,paper,0.9701334238052368
+2025-11-12 18:40:16,shoes_14.jpg,shoes,0.9767237901687622
